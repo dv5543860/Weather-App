@@ -43,7 +43,7 @@
         <h2>Credits</h2>
         <ul class="feature-list">
             <li>This project utilizes weather data from a reliable API (openweathermap).</li>
-            <li>Developed by Abhishek Kumar</li>
+            <li>Developed by Dipanshu Verma</li>
         </ul>
     </div>
 </body>
