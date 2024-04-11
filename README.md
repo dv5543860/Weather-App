@@ -17,7 +17,7 @@
             <li>Intuitive user interface</li>
         </ul>
         <div class="demo-link">
-            <p>Check out the live demo of the app <a href="https://weather-app-7187.netlify.app/">here</a>.</p>
+            <p>Check out the live demo of the app <a href="https://dipanshuvermaweather.netlify.app/">here</a>.</p>
         </div>
         <h2>Usage</h2>
         <ol>
